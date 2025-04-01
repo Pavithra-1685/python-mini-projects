@@ -53,11 +53,17 @@ This repository introduces several useful Python libraries that enhance function
 - `random` – Generating random numbers, choices, and passwords
 - `datetime` – Handling dates and times
 
-###
+
 
 ---
 
-##
+## 🚀 Featured Projects
+
+Explore beginner-friendly Python projects that demonstrate real-world applications:
+
+- **Random Number Generator** – Uses the `random` module for number generation
+- **Simple Calculator** – Implements basic arithmetic operations
+-
 
 ---
 
@@ -66,13 +72,13 @@ This repository introduces several useful Python libraries that enhance function
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/Yuva-2211/Python_mini_projects.git
+git clone https://github.com/Pavithra-1685/python-mini-projects.git
 ```
 
 ### Navigate to the project folder:
 
 ```bash
-cd Python_mini_projects
+cd python-mini-projects
 ```
 
 ---
